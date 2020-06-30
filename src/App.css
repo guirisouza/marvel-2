@@ -1,0 +1,20 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body, p, h1, ul, li, blockquote {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+li {
+    list-style: none;
+}
+
+a {
+   text-decoration: none; 
+}
